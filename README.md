@@ -1,13 +1,13 @@
 
 # Hi, I'm Priyal Kapoor
 
-### Junior Data Analyst
+### Data Analyst
 
 I'm a Junior Data Analyst with a background in retail operations and business analytics. I enjoy using data to solve real-world problems through SQL, Power BI, Python, and Excel. My projects focus on data analysis, dashboard development, and business intelligence.
 
 ---
 
-## Technical Skills
+## Core Skills
 
 ### Languages & Databases
 - SQL
