@@ -20,11 +20,6 @@ I'm a Data Analyst with a background in retail operations and business analytics
 - Power Query
 - Excel
 
-### Tools
-- Git
-- GitHub
-- Jupyter Notebook
-
 ---
 
 ## Featured Projects
